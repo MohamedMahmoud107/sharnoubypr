@@ -1,0 +1,25 @@
+{
+    "model_name": "final_sku_model",
+    "methodology": "Multi-horizon forecasting",
+    "forecast_horizons": [
+        1,
+        2,
+        3
+    ],
+    "target": "Quantity",
+    "aggregation_level": "SKU",
+    "numeric_features": [
+        "Forecast_Horizon",
+        "Origin_Quantity",
+        "Lag_1",
+        "Lag_2",
+        "Lag_3",
+        "Rolling_Mean_3",
+        "Rolling_Mean_6",
+        "Same_Month_Last_Year",
+        "Month_Sin",
+        "Month_Cos",
+        "Time_Index"
+    ],
+    "saved_at": "2026-10-15T08:59:26"
+}

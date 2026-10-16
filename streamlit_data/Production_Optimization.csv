@@ -1,0 +1,60 @@
+SKU,Product_Name,Forecast_Demand,Current_Stock,Safety_Stock,Net_Requirement,Recommended_Production,Remaining_Shortage,Production_Status
+26115-1,Summer children's boys-Sonic,211.0328826904297,288,349,272.0328826904297,272.0328826904297,-0.0,Production Required
+26115-2,Summer children's boys-Black and orange,329.1600036621094,588,714,455.1600036621094,455.1600036621094,-0.0,Production Required
+26115-3,Summer children's boys-Black and turquoise,308.4654235839844,719,88,0.0,0.0,0.0,No Production Required
+26115-4,Summer children's boys-SpongeBob,1147.42724609375,1061,657,743.42724609375,743.42724609375,-0.0,Production Required
+26115-5,Summer children's girls-Hello kitty Rose & turquoise,377.4408874511719,583,169,0.0,0.0,0.0,No Production Required
+26115-6,Summer children's girls-turtle,313.37335205078125,5,416,724.3733520507812,724.3733520507812,-0.0,Production Required
+26115-7,Summer children's girls-Hello kitty black&white,428.7867431640625,223,261,466.7867431640625,466.7867431640625,-0.0,Production Required
+26115-8,Summer children's girls-Happy,1073.047119140625,597,545,1021.047119140625,1021.047119140625,-0.0,Production Required
+CAT-013,Boys' summer t-shirt-Beige,219.6385955810547,642,104,0.0,0.0,0.0,No Production Required
+CAT-014,Boys' summer t-shirt-Black,361.648681640625,596,708,473.648681640625,473.648681640625,-0.0,Production Required
+CAT-015,Girls' summer pajamas-Stay cool,249.27931213378903,504,149,0.0,0.0,0.0,No Production Required
+CAT-016,Girls' summer pajamas-Watercolor Floral,351.4415283203125,283,141,209.4415283203125,209.4415283203125,-0.0,Production Required
+CAT-017,Girls' summer pajamas-flower,325.1782531738281,447,569,447.1782531738281,447.1782531738281,-0.0,Production Required
+CAT-018,Boys' summer pajamas-Wear your attitude,233.8340759277344,527,275,0.0,0.0,0.0,No Production Required
+CAT-019,Boys' summer pajamas- Seeds OF,200.86997985839844,10208,115,0.0,0.0,0.0,No Production Required
+CAT-020,Boys' summer pajamas-Rock Band,350.2637634277344,781,69,0.0,0.0,0.0,No Production Required
+CAT-021,Girls' summer pajamas-Minnie Mouse,510.2691955566406,444,179,245.26919555664062,245.26919555664062,-0.0,Production Required
+CAT-022,Girls' summer pajamas-Stitch,214.4709014892578,527,120,0.0,0.0,0.0,No Production Required
+CAT-023,Girls' summer pajamas-Dumbo,226.21697998046875,10343,40,0.0,0.0,0.0,No Production Required
+CAT-024,Boys' summer pajamas-Mickey,429.16998291015625,1121,214,0.0,0.0,0.0,No Production Required
+CAT-025,Boys' summer pajamas-Snoopy,241.10638427734372,275,272,238.10638427734375,238.10638427734375,-0.0,Production Required
+CAT-026,Boys' summer pajamas-Bluey,260.7015686035156,381,83,0.0,0.0,0.0,No Production Required
+CAT-027,Girls' pajamas - I'm Just a girl,187.23036193847656,430,217,0.0,0.0,0.0,No Production Required
+CAT-028,Girls' summer pajamas,330.7699890136719,946,168,0.0,0.0,0.0,No Production Required
+CAT-029,Girls' pajamas-Daylife+kuromi,697.6317749023438,1370,390,0.0,0.0,0.0,No Production Required
+CAT-030,Boys' pajamas -Mickey Mouse,313.2066345214844,968,135,0.0,0.0,0.0,No Production Required
+CAT-031,Boys' pajamas -Don't Even!,220.96728515625,626,405,0.0,0.0,0.0,No Production Required
+CAT-032,Boys' sweatshirt-blue,2536.010498046875,1205,109,1440.010498046875,1440.010498046875,-0.0,Production Required
+CAT-033,Boys' sweatshirt-LEO,2706.5126953125,419,61,2348.5126953125,2348.5126953125,-0.0,Production Required
+CAT-034,Boys' sweatshirt-black and white,934.8650512695312,844,59,149.86505126953125,149.86505126953125,-0.0,Production Required
+CAT-035,Girls' sweatshirt-Fuchsia,987.3160400390624,417,43,613.3160400390625,613.3160400390625,-0.0,Production Required
+CAT-036,Girls' sweatshirt-Tinker Bell,1054.2586669921875,574,54,534.2586669921875,534.2586669921875,-0.0,Production Required
+CAT-037,Girls' sweatshirt-Flower,3854.3173828125,2665,201,1390.3173828125,1390.3173828125,-0.0,Production Required
+CAT-038,Boys' Autumn Pajamas-Mickey Mouse,2530.6669921875,588,44,1986.6669921875,1986.6669921875,-0.0,Production Required
+CAT-039,Boys' Autumn Pajamas-Spider Man,2427.844970703125,441,181,2167.844970703125,2167.844970703125,-0.0,Production Required
+CAT-040,Boys' Autumn Pajamas-Loony Tunes,1330.2862548828125,1135,68,263.2862548828125,263.2862548828125,-0.0,Production Required
+CAT-041,Boys' Autumn Pajamas-Jurassic Park,1098.905517578125,9954,49,0.0,0.0,0.0,No Production Required
+CAT-042,Girls' autumn pajamas-Cheeky Charmins,943.1854248046876,296,41,688.1854248046876,688.1854248046876,-0.0,Production Required
+CAT-043,Girls' autumn pajamas-Snow White,1896.1878662109373,722,77,1251.1878662109373,1251.1878662109373,-0.0,Production Required
+CAT-044,Girls' autumn pajamas-Ice Cream,2297.98388671875,370,86,2013.98388671875,2013.98388671875,-0.0,Production Required
+CAT-045,Girls' autumn pajamas-Stitch,2307.498291015625,583,99,1823.498291015625,1823.498291015625,-0.0,Production Required
+CAT-046,Mustard - طقم تيشيرت وشورت اطفال صيفي,329.1573791503906,851,223,0.0,0.0,0.0,No Production Required
+CAT-047,Mauve - طقم تيشيرت وشورت اطفال صيفي,316.3562927246094,479,146,0.0,0.0,0.0,No Production Required
+CAT-048,Semon - طقم تيشيرت وشورت اطفال صيفي,295.81396484375,305,165,155.81396484375,155.81396484375,-0.0,Production Required
+CAT-049,Fuchsia - طقم تيشيرت وشورت اطفال صيفي,304.0521545410156,345,172,131.05215454101562,131.05215454101562,-0.0,Production Required
+CAT-050,Yellow - طقم تيشيرت وشورت اطفال صيفي,239.3699951171875,734,308,0.0,0.0,0.0,No Production Required
+CAT-051,Ice cream - بيجامة حريمي صيفي2024,879.3414306640625,1455,509,0.0,0.0,0.0,No Production Required
+CAT-052,Teddy bear - بيجامة حريمي صيفي2024,196.85833740234372,836,37,0.0,0.0,0.0,No Production Required
+CAT-053,PINK panther - بيجامة حريمي صيفي2024,372.1500244140625,498,191,65.1500244140625,65.1500244140625,-0.0,Production Required
+CAT-054,Gazelle - بيجامة حريمي صيفي2024,180.12786865234375,9657,157,0.0,0.0,0.0,No Production Required
+CAT-055,Scooby-Doo - بيجامة حريمي صيفي2024,330.3202514648437,486,229,73.32025146484375,73.32025146484375,-0.0,Production Required
+CAT-056,BATGIRL - بيجامة حريمي صيفي2024,309.9600830078125,1402,350,0.0,0.0,0.0,No Production Required
+CAT-057,Save the planet بيجامة حريمي صيفي - 2024,232.21975708007807,790,156,0.0,0.0,0.0,No Production Required
+CAT-058,OHANA - بيجامة حريمي صيفي 2024,221.15171813964844,492,318,47.15171813964844,47.15171813964844,-0.0,Production Required
+CAT-059,Positive vibes - 2024بيجامة حريمي صيفي,869.8824462890625,1166,342,45.8824462890625,45.8824462890625,-0.0,Production Required
+LEO-WC-P-5401,Boys' summer t-shirt-light beige,371.5896301269531,707,228,0.0,0.0,0.0,No Production Required
+LEO-WC-P-5402,Boys' summer t-shirt-Navy blue,240.08827209472656,441,69,0.0,0.0,0.0,No Production Required
+LEO-WC-P-5403,Boys' summer t-shirt-olive,168.83023071289062,865,282,0.0,0.0,0.0,No Production Required
+LEO-WC-P-5404,Boys' summer t-shirt-Aubergine,551.6887817382812,662,109,0.0,0.0,0.0,No Production Required
